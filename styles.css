@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif 
+}
+
+body {
+    background: black;
+}
+
+marquee {
+    text-transform: uppercase;
+    color: red;
+    font-size: 45vw;
+}
